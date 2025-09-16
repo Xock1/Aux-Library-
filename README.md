@@ -1,11 +1,11 @@
-# Tora Library
+# Aux Library
 
 🍷 A clean Library you can use on your Script made by Aux 🍷
 
 ## Installation
 
 ```lua
-local library = loadstring(game:HttpGet("YOUR_LIBRARY_URL_HERE"))()
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Xock1/Aux-Library-/refs/heads/main/Aux-Library.lua"))()
 ```
 
 ## Basic Setup
