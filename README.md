@@ -5,7 +5,7 @@
 ## Installation
 
 ```lua
-local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Xock1/Aux-Library-/refs/heads/main/Aux-Library.lua"))()
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Xock1/Aux-Library-/refs/heads/main/obfuscated_script.lua%20(19).txt"))()
 ```
 
 ## Basic Setup
